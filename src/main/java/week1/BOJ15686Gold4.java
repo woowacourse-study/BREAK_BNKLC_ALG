@@ -6,11 +6,11 @@ import java.util.Scanner;
 
 public class BOJ15686Gold4 {
     public static void main(String[] args) {
-        chickenGame(new Scanner(System.in));
+        game(new Scanner(System.in));
 
     }
 
-    public static void chickenGame(Scanner scanner) {
+    public static void game(Scanner scanner) {
         String[] inputNm = scanner.nextLine().split(" ");
         int N = Integer.parseInt(inputNm[0]);
         int M = Integer.parseInt(inputNm[1]);
