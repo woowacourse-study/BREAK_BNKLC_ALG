@@ -8,7 +8,7 @@ import static week1.BOJ15686Gold4.chickenGame;
 
 public class BOJ15686Gold4Test {
     @Test
-    void test(){
+    void test() {
         String testCase1 = "5 3\n" +
                 "0 0 1 0 0\n" +
                 "0 0 2 0 1\n" +

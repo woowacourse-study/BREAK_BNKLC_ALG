@@ -53,15 +53,19 @@ public class BOJ1182Silver2 {
         }
         return false;
     }
-    static class Cnt{
+
+    static class Cnt {
         private int value;
-        Cnt(int value){
+
+        Cnt(int value) {
             this.value = value;
         }
-        void add(){
+
+        void add() {
             value++;
         }
-        int get(){
+
+        int get() {
             return this.value;
         }
     }
