@@ -7,7 +7,9 @@ import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
 import java.io.PrintStream;
 
-public abstract class OutputTestStream extends Test{
+public abstract class OutputTestStream{
+    String testCase;
+    String result;
     private PrintStream printStream;
     private OutputStream outputStream;
 
