@@ -1,4 +1,4 @@
-package gray;
+package gray.baekjoon;
 
 import java.util.Scanner;
 
