@@ -2,61 +2,56 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Comparator;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.StringTokenizer;
 
 public class Question2910 {
 
     static void input() {
         n = reader.nextInt();
-        crains = new ArrayList<>();
+        c = reader.nextInt();
         for (int i = 0; i < n; i++) {
-            crains.add(reader.nextInt());
+            nums.add(reader.nextInt());
         }
-        boxes = new ArrayList<>();
-        m = reader.nextInt();
-        for (int i = 0; i < m; i++) {
-            boxes.add(reader.nextInt());
-        }
-        cnt = 0;
 
     }
 
     static Reader reader = new Reader();
-    static int n;
-    static int m;
-    static int cnt;
-    static List<Integer> crains;
-    static List<Integer> boxes;
+    static int n, c;
+    static List<Integer> nums = new ArrayList<>();
 
     public static void main(String[] args) {
         input();
-        crains.sort(Comparator.reverseOrder());
-        boxes.sort(Comparator.reverseOrder());
-        if (crains.get(0) < boxes.get(0)) {
-            System.out.println(-1);
-        } else {
-            while (boxes.size() > 0) {
-                for (int crain : crains){
-                    if (boxes.size()==0){
-                        break;
-                    }
-                    else if (crain<boxes.get(boxes.size()-1)){
-                        break;
-                    } else {
-                        for (int j =0;j<boxes.size();j++){
-                            if (crain>=boxes.get(j)){
-                                boxes.remove(j);
-                                break;
-                            }
-                        }
-                    }
-                }
-                cnt++;
+
+        Map<Integer, Integer> numberContains = new LinkedHashMap<>();
+
+        for (Integer num : nums) {
+            if (numberContains.containsKey(num)) {
+                numberContains.put(num, numberContains.get(num) + 1);
+            } else {
+                numberContains.put(num, 1);
             }
-            System.out.println(cnt);
         }
+
+        List<Integer> keys = new ArrayList<>(numberContains.keySet());
+
+        Collections.sort(keys, new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return Integer.compare(numberContains.get(o2), numberContains.get(o1));
+            }
+        });
+
+        for (int key : keys) {
+            for (int i = 0; i < numberContains.get(key); i++) {
+                System.out.print(key+" ");
+            }
+        }
+
     }
 
     static class Reader {
@@ -83,5 +78,4 @@ public class Question2910 {
             return Integer.parseInt(next());
         }
     }
-
 }
