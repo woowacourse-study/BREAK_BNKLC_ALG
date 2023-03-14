@@ -1,4 +1,4 @@
-package gray.baekjoon;
+package baekjoon;
 
 import java.util.ArrayList;
 import java.util.List;
