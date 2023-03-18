@@ -29,7 +29,6 @@ public class BOJ1092 {
             cranes.add(craneValue);
         }
 
-
         M = scanner.nextInt();
         for (int i = 0; i < M; i++) {
             int containerValue = scanner.nextInt();

@@ -9,7 +9,6 @@ public class BOJ2910 {
      *  1 <= N < = 1000
      *  1 <= C <= 1_000_000_000
      *  00:10 ~ 00:23
-     *
      */
 
     private static int N;
