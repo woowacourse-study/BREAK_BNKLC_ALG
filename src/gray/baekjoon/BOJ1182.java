@@ -9,7 +9,6 @@ public class BOJ1182 {
      * 1 <= N <= 20
      * -1_000_000 <= |S| <=  1_000_000
      * time: 23:10 ~ 23:44
-     * @param args
      */
 
     private static int N;
