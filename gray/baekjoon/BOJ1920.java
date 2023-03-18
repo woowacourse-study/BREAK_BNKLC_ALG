@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class BOJ1920 {
-
     /**
      * 1 <= N <= 100_000
      * 1 <= M <= 100_000
