@@ -7,7 +7,7 @@ public class BOJ3020 {
     /**
      * 2 ≤ N ≤ 200,000
      * 2 ≤ H ≤ 500,000
-     * 풀이 참고했음
+     * 풀이 참고
      */
 
     private static int N;
