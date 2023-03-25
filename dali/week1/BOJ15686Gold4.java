@@ -1,4 +1,4 @@
-package week1;
+package dali.week1;
 
 import java.util.ArrayList;
 import java.util.List;
