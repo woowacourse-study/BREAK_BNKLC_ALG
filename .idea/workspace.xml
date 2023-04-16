@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="017b9f64-3775-4a22-9662-4d6c2b6301bb" name="Changes" comment="[BOJ] 1520/Gold3/1h30M" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BREAK_BNKLC_ALG" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dali" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MPDCBonGJjnWJmt2EcWAG5Yl5G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/waterricecake/woowahan/algorithm/BREAK_BNKLC_ALG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dali/week4" />
+      <recent name="$PROJECT_DIR$/dali/week3" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dali/week5" />
+      <recent name="$PROJECT_DIR$/src/test/java/week1" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week3" />
+      <recent name="week2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.test.test">
+    <configuration name="BOJ1182Silver2Test.setTestCase" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;week1.BOJ1182Silver2Test.setTestCase&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ15686Gold4Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;week1.BOJ15686Gold4Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ15686Gold4Test.test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;week1.BOJ15686Gold4Test.test2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ15686Gold4Test.test4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;week1.BOJ15686Gold4Test.test4&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="test.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;test.test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.test.test" />
+        <item itemvalue="Gradle.BOJ15686Gold4Test.test4" />
+        <item itemvalue="Gradle.BOJ15686Gold4Test.test2" />
+        <item itemvalue="Gradle.BOJ15686Gold4Test" />
+        <item itemvalue="Gradle.BOJ1182Silver2Test.setTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="017b9f64-3775-4a22-9662-4d6c2b6301bb" name="Changes" comment="" />
+      <created>1677660194260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677660194260</updated>
+      <workItem from="1677660197421" duration="84000" />
+      <workItem from="1677660287096" duration="123000" />
+      <workItem from="1677660412405" duration="10470000" />
+      <workItem from="1677675231023" duration="1628000" />
+      <workItem from="1677676866481" duration="2021000" />
+      <workItem from="1677809849087" duration="451000" />
+      <workItem from="1677816420156" duration="13000" />
+      <workItem from="1677834828198" duration="1255000" />
+      <workItem from="1678148906305" duration="2728000" />
+      <workItem from="1678425186972" duration="4000" />
+      <workItem from="1678431609396" duration="3463000" />
+      <workItem from="1678435195584" duration="460000" />
+      <workItem from="1678516227637" duration="8016000" />
+      <workItem from="1679039124900" duration="10728000" />
+      <workItem from="1679816485811" duration="2752000" />
+      <workItem from="1679819248183" duration="935000" />
+      <workItem from="1679820280470" duration="420000" />
+      <workItem from="1679820704522" duration="2361000" />
+      <workItem from="1681623622798" duration="7808000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat(env): 초기 환경 설정">
+      <created>1677660417518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677660417518</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[BOJ] 치킨배달/Gold5/2hour">
+      <created>1677669015305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677669015305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[BOJ] 1182/Silver2/1hour">
+      <created>1677672137921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677672137921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: 리포멧">
+      <created>1677672205162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677672205163</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test(test): 테스트 환경설정">
+      <created>1677676821162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677676821162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test(test): 테스트 환경설정">
+      <created>1677676996360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677676996360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[BOJ} 15686/Gold4/2hour">
+      <created>1677835386167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677835386167</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[BOJ] 1182/Silver2/1hour">
+      <created>1677835407417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677835407417</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[BOJ] 2910/Silver2/1hour">
+      <created>1678523940510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678523940510</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[BOJ] 1092/Gold/1hour30m">
+      <created>1678523959702</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678523959702</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chore: 패키지 정리">
+      <created>1679121095390</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679121095390</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[BOJ] 1920/Silver4/30m">
+      <created>1679121150622</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679121150622</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[BOJ] 3020/Gold5/1hour">
+      <created>1679121182376</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679121182376</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[BOJ] 1806/Gold4/30M">
+      <created>1679821798225</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679821798225</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[BOJ] 2003/Silver4/30M">
+      <created>1679821834949</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679821834949</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[BOJ] 2003/Silver4/30M">
+      <created>1679821854569</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679821854569</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[BOJ] 1806/Gold4/30M">
+      <created>1679821862433</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679821862433</updated>
+    </task>
+    <task id="LOCAL-00018" summary="dssd">
+      <created>1681630526410</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681630526410</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ㅇ">
+      <created>1681630702716</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681630702716</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[BOJ] 1520/Gold3/1h30M">
+      <created>1681630746228</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681630746228</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[BOJ] 13305/Silver3/15M">
+      <created>1681630779692</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681630779692</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[BOJ] 13305/Silver3/15M">
+      <created>1681631170285</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681631170286</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[BOJ] 1520/Gold3/1h30M">
+      <created>1681631177829</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681631177829</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="testClass" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(env): 초기 환경 설정" />
+    <MESSAGE value="[BOJ] 치킨배달/Gold5/2hour" />
+    <MESSAGE value="chore: 리포멧" />
+    <MESSAGE value="test(test): 테스트 환경설정" />
+    <MESSAGE value="[BOJ} 15686/Gold4/2hour" />
+    <MESSAGE value="[BOJ] 1182/Silver2/1hour" />
+    <MESSAGE value="[BOJ] 2910/Silver2/1hour" />
+    <MESSAGE value="[BOJ] 1092/Gold/1hour30m" />
+    <MESSAGE value="chore: 패키지 정리" />
+    <MESSAGE value="[BOJ] 1920/Silver4/30m" />
+    <MESSAGE value="[BOJ] 3020/Gold5/1hour" />
+    <MESSAGE value="[BOJ] 2003/Silver4/30M" />
+    <MESSAGE value="[BOJ] 1806/Gold4/30M" />
+    <MESSAGE value="dssd" />
+    <MESSAGE value="ㅇ" />
+    <MESSAGE value="[BOJ] 13305/Silver3/15M" />
+    <MESSAGE value="[BOJ] 1520/Gold3/1h30M" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 1520/Gold3/1h30M" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BREAK_BNKLC_ALG$BOJ1092Gold5Test_test1.ic" NAME="BOJ1092Gold5Test.test1 Coverage Results" MODIFIED="1678519399136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
