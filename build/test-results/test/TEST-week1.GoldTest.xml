@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="week1.GoldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-16T07:34:02" hostname="gimdong-yeon-ui-MacBookAir.local" time="0.038">
+  <properties/>
+  <testcase name="setTestCase()" classname="week1.GoldTest" time="0.038"/>
+  <system-out><![CDATA[3
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
