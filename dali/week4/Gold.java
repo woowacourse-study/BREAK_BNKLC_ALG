@@ -1,4 +1,4 @@
-package week1;
+package dali.week4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
